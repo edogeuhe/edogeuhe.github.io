@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edogeuhe.github.io/AXO/sitemap_index.txt
+Sitemap: https://edogeuhe.github.io/Mit/sitemap_index.txt
+Sitemap: https://edogeuhe.github.io/PeX/sitemap_index.txt
+Sitemap: https://edogeuhe.github.io/rNp/sitemap_index.txt
